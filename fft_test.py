@@ -62,8 +62,8 @@ class top_block(grc_wxgui.top_block_gui):
         	peak_hold=False,
         )
         self.Add(self.wxgui_fftsink2_0.win)
-        self.blocks_wavfile_source_1 = blocks.wavfile_source('/home/jsarp4/Documents/gnu_radio_flowcharts/CSS_USRP_impl/chirps/1.wav', True)
-        self.blocks_wavfile_source_0 = blocks.wavfile_source('/home/jsarp4/Documents/gnu_radio_flowcharts/CSS_USRP_impl/chirps/inv.wav', True)
+        self.blocks_wavfile_source_1 = blocks.wavfile_source('chirps/1.wav', True)
+        self.blocks_wavfile_source_0 = blocks.wavfile_source('chirps/inv.wav', True)
         self.blocks_multiply_xx_0 = blocks.multiply_vff(1)
         self.audio_sink_1 = audio.sink(samp_rate, '', True)
 
