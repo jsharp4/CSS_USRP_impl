@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/fft_decoder/fft_decoderConfig.cmake
+/usr/local/include/fft_decoder/api.h
+/usr/local/lib/python2.7/dist-packages/fft_decoder/__init__.py
+/usr/local/lib/python2.7/dist-packages/fft_decoder/fft_decoder.py
+/usr/local/lib/python2.7/dist-packages/fft_decoder/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/fft_decoder/fft_decoder.pyc
+/usr/local/lib/python2.7/dist-packages/fft_decoder/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/fft_decoder/fft_decoder.pyo
+/usr/local/share/gnuradio/grc/blocks/fft_decoder_fft_decoder.xml
